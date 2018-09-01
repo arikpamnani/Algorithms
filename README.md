@@ -1,2 +1,2 @@
 # Algorithms
-Standard algorithms in C++
+IMPLEMENTATION OF STANDARD ALGORITHMS IN C++
